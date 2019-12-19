@@ -1,0 +1,57 @@
+{
+    "name": "Galileo Processing",
+    "description": "Do you need to develop a financial program? Galileo connects people and payments through our intuitive financial services platform.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28207-www-galileoprocessing-com.jpg",
+    "tags": [
+        "api provider",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/galileo-processing\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Galileo Processing",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28207-www-galileoprocessing-com.jpg",
+            "humanURL": "https:\/\/www.galileoprocessing.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/galileo-processing-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/galileo-processing-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/galileo-processing-inc"
+        },
+        {
+            "type": "Email",
+            "url": "info@galileoprocessing.com"
+        },
+        {
+            "type": "Email",
+            "url": "media@galileoprocessing.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TweetGalileo"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.galileoprocessing.com"
+        }
+    ]
+}
